@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="official:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/official_jar</output-path>
+    <root id="archive" name="official.jar">
+      <element id="module-output" name="official" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/beautyeye_lnf.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
